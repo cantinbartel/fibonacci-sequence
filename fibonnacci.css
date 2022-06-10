@@ -1,0 +1,14 @@
+.button {
+    border: none;
+    background-color: hsl(225, 73%, 57%);
+    color: white;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    margin-top: 4rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: hsl(225, 73%, 47%);
+}
